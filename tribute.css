@@ -1,0 +1,23 @@
+body{
+    padding: 80px;
+    font-family: Times New Roman;
+    font-size:  18px;
+    align-items: center;
+    
+  }
+  .container{
+    background-color:rgb(203, 239, 248);
+    padding: 10px;
+    border :  5px solid rgb(42, 69, 165);
+  }
+  #head1{
+    padding-top:50px;
+  }
+  .text-edit{
+    font-family:Verdena;
+    font-size:20px;
+    align-items: center;
+  }
+  .img-thumbnail{
+    align-items: center;
+  }
